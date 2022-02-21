@@ -1,0 +1,32 @@
+.interes {
+    width: 50%;
+    height: 50px;
+    border: 1px solid;
+    background: palegreen;
+    font-size: 26px;
+    line-height: 2;
+}
+
+.lenth {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+    height: 30px;
+    padding: 200px;
+}
+
+
+
+.gmail {
+    margin: 12px
+}
+
+.box {
+    display: flex;
+}
+
+.box2 {
+    display: float;
+
+    max-width: 300px;
+}
