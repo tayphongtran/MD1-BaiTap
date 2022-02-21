@@ -1,0 +1,52 @@
+.time {
+    color: blue;
+    font-size: 30px;
+    margin: 40px 100px;
+    padding-left: 80px;
+}
+
+table {
+    width: 600px;
+    line-height: 30px;
+}
+
+.adday {
+    color: #fff;
+    font-size: 300;
+    background-color: orange;
+}
+
+.day .adday-1 {
+    color: #ffffff;
+    background-color: rgba(241, 7, 7, 1);
+}
+
+.day .adday-2 {
+    color: #ffffff;
+    background: blue;
+}
+
+
+.dayr2  {
+
+}
+.daysun {
+    color: rgba(241, 7, 7, 1);
+    font-size: 18px;
+    line-height: 2;
+}
+.daysat {
+    color: blue;
+    font-size:18px;
+    line-height: 2;
+}
+
+.dayadd2 {
+    display: flex;
+    justify-content: center;
+    border: 1px solid #ccc;
+}
+
+.bold {
+    border: 1px solid #333;
+}
